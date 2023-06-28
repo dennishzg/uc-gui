@@ -2,17 +2,20 @@
 
 GUI for the Minecraft plugin [UltraCosmetics](https://github.com/datatags/UltraCosmetics).
 
+- Aseprite source files in `/aseprite/`.
+- GUI textures in `/assets/`.
+
 ---
 
-## Preview
+## 🖼️ Preview
 
 ### Main menu
 
-![Main menu](assets/uc-gui-main-menu.png)
+![Main menu](.github/readme-assets/do-not-use-main-menu.png)
 
 ### Buy menu (keys, cosmetics etc.)
 
-![Buy menu](assets/uc-gui-buy-menu.png)
+![Buy menu](.github/readme-assets/do-not-use-buy-menu.png)
 
 ### Rename pet
 
