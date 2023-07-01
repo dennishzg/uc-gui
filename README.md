@@ -23,9 +23,19 @@ Resource pack/GUI for the Minecraft plugin [UltraCosmetics](https://github.com/d
 
 ## 🛠️ How to use
 
+### Configure your server
+
+Edit the `server.properties` file:
+
+```properties
+resource-pack=https://github.com/dennishzg/uc-gui/releases/download/v1.0.0/UC-GUI-v1.0.0.zip
+```
+
+### Menu
+
 Example menu using DeluxeMenus.
 
-### GUI texture
+#### GUI texture
 
 - 🏠 = Main menu texture
 - 🪙 = Buy menu texture
@@ -35,7 +45,7 @@ size: 54
 menu_title: "&f🎲🎲🎲🎲🎲🎲🎲🎲🏠"
 ```
 
-### Invisible items
+#### Invisible items
 
 Invisible items are necessary to make the buttons/icons in the GUI clickable. Create an invisible item with:
 
