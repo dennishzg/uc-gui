@@ -1,6 +1,6 @@
 # uc-gui
 
-Resource pack/GUI for the Minecraft plugin [UltraCosmetics](https://github.com/datatags/UltraCosmetics).
+GUI resource pack for the Minecraft plugin [UltraCosmetics](https://www.spigotmc.org/resources/10905/).
 
 - Aseprite source files are in `/aseprite/`.
 - Resource pack/GUI textures are in `/resourcepack/`.
