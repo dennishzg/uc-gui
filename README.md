@@ -23,7 +23,7 @@ GUI resource pack for the Minecraft plugin [UltraCosmetics](https://www.spigotmc
 
 ## 🛠️ How to use
 
-### Configure your server
+### Add server resource pack
 
 Edit the `server.properties` file:
 
@@ -31,7 +31,7 @@ Edit the `server.properties` file:
 resource-pack=https://github.com/dennishzg/uc-gui/releases/download/v1.0.0/UC-GUI-v1.0.0.zip
 ```
 
-### Menu
+### Create menu
 
 Example menu using DeluxeMenus.
 
