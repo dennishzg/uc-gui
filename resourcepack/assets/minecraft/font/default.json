@@ -2,21 +2,21 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "minecraft:guis/pixel.png",
+      "file": "ucgui:guis/pixel.png",
       "ascent": -2000,
       "height": -3,
       "chars": ["🎲"]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:guis/ucgui/main-menu.png",
+      "file": "ucgui:_fonts/menus/bg_main.png",
       "ascent": 13,
       "height": 125,
       "chars": ["🏠"]
     },
     {
       "type": "bitmap",
-      "file": "minecraft:guis/ucgui/buy-menu.png",
+      "file": "ucgui:_fonts/menus/bg_buy.png",
       "ascent": 13,
       "height": 125,
       "chars": ["🪙"]

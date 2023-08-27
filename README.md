@@ -17,10 +17,6 @@ GUI resource pack for the Minecraft plugin [UltraCosmetics](https://www.spigotmc
 
 ![Buy menu](.github/readme-assets/do-not-use-buy-menu.png)
 
-### Rename pet
-
-???
-
 ## 🛠️ How to use
 
 ### Add server resource pack
@@ -28,7 +24,7 @@ GUI resource pack for the Minecraft plugin [UltraCosmetics](https://www.spigotmc
 Edit the `server.properties` file:
 
 ```properties
-resource-pack=https://github.com/dennishzg/uc-gui/releases/download/v1.0.0/UC-GUI-v1.0.0.zip
+resource-pack=https://github.com/dennishzg/uc-gui/releases/download/v1.1.0/UC-GUI-v1.1.0.zip
 ```
 
 ### Create menu
@@ -51,9 +47,22 @@ Invisible items are necessary to make the buttons/icons in the GUI clickable. Cr
 
 ```yaml
 items:
-  'test':
+  'invisibleitem':
     material: MAP
     nbt_int: CustomModelData:1010
     slot: 23
     display_name: "&aInvisible item"
+```
+
+#### Custom items
+
+##### Key
+
+```yaml
+items:
+  'key':
+    material: QUARTZ
+    nbt_int: CustomModelData:1
+    slot: 23
+    display_name: "&aKey"
 ```
