@@ -49,7 +49,7 @@ Invisible items are necessary to make the buttons/icons in the GUI clickable. Cr
 items:
   'invisibleitem':
     material: MAP
-    nbt_int: CustomModelData:1010
+    model_data: 1010
     slot: 23
     display_name: "&aInvisible item"
 ```
@@ -62,7 +62,7 @@ items:
 items:
   'key':
     material: QUARTZ
-    nbt_int: CustomModelData:1
+    model_data: 1
     slot: 23
     display_name: "&aKey"
 ```

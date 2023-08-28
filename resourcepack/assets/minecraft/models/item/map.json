@@ -6,7 +6,7 @@
   "overrides": [
     {
       "predicate": { "custom_model_data": 1010 },
-      "model": "ucgui:guis/invisibleitem"
+      "model": "ucgui:item/guis/invisibleitem"
     }
   ]
 }

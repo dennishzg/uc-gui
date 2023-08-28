@@ -1,8 +1,8 @@
 {
   "credit": "Made by Larkyy",
   "textures": {
-    "0": "ucgui:guis/pixel",
-    "particle": "ucgui:guis/pixel"
+    "0": "ucgui:item/guis/pixel",
+    "particle": "ucgui:item/guis/pixel"
   },
   "elements": [
     {
