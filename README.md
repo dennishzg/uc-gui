@@ -11,11 +11,11 @@ GUI resource pack for the Minecraft plugin [UltraCosmetics](https://www.spigotmc
 
 ### Main menu
 
-![Main menu](.github/readme-assets/do-not-use-main-menu.png)
+![Main menu](.github/readme-assets/preview-bg_main.png)
 
 ### Buy menu (keys, cosmetics etc.)
 
-![Buy menu](.github/readme-assets/do-not-use-buy-menu.png)
+![Buy menu](.github/readme-assets/preview-bg_buy.png)
 
 ## 🛠️ How to use
 
@@ -41,28 +41,20 @@ size: 54
 menu_title: "&f🎲🎲🎲🎲🎲🎲🎲🎲🏠"
 ```
 
-#### Invisible items
-
-Invisible items are necessary to make the buttons/icons in the GUI clickable. Create an invisible item with:
-
-```yaml
-items:
-  'invisibleitem':
-    material: MAP
-    model_data: 1010
-    slot: 23
-    display_name: "&aInvisible item"
-```
-
 #### Custom items
 
-##### Key
+Example:
 
 ```yaml
 items:
-  'key':
+  'customitem':
     material: QUARTZ
     model_data: 1
-    slot: 23
-    display_name: "&aKey"
 ```
+
+| Image                         | Material        | CustomModelData ID | Description |
+| ----------------------------- | --------------- | ------------------ | ----------- |
+| invisible                     | MAP             | 1010               | Invisible items are necessary to make the buttons/icons in the GUI clickable. |
+| ![Key][p-key]                 | QUARTZ          | 1                  | Treasure chest key |
+
+[p-key]: .github/readme-assets/preview-key.png
