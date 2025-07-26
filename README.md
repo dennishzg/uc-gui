@@ -7,6 +7,15 @@ GUI resource pack for the Minecraft plugin [UltraCosmetics](https://www.spigotmc
 
 ---
 
+## 🧩 Official Addon
+
+> [!TIP]
+> You can use the official addon plugin if your server doesn't have a resource pack. Simply put the .jar in the plugins folder and you're done.
+> Download the plugin from one of these links:
+>
+> - [SpigotMC](https://www.spigotmc.org/resources/ultracosmetics-gui-addon.117279/)
+> - [GitHub](https://github.com/UltraCosmetics/UltraCosmetics-gui-addon)
+
 ## 🖼️ Preview
 
 ### Main menu
