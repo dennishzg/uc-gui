@@ -33,7 +33,7 @@ GUI resource pack for the Minecraft plugin [UltraCosmetics](https://www.spigotmc
 Edit the `server.properties` file:
 
 ```properties
-resource-pack=https://github.com/dennishzg/uc-gui/releases/download/v1.1.0/UC-GUI-v1.1.0.zip
+resource-pack=https://github.com/dennishzg/uc-gui/releases/download/v2.0.0/UC-GUI-v2.0.0.zip
 ```
 
 ### Create menu
