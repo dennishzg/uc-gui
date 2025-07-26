@@ -3,7 +3,7 @@
 GUI resource pack for the Minecraft plugin [UltraCosmetics](https://www.spigotmc.org/resources/10905/).
 
 - Aseprite source files are in `/aseprite/`.
-- Resource pack/GUI textures are in `/resourcepack/`.
+- Resource pack and GUI textures are in `/resourcepack/`.
 
 ---
 
