@@ -45,7 +45,7 @@ menu_title: "&f🎲🎲🎲🎲🎲🎲🎲🎲🏠"
 
 Example:
 
-```
+```text
 /minecraft:give @p minecraft:brick[minecraft:item_model="ucgui:uc_items/key"]
 ```
 
