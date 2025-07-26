@@ -45,16 +45,13 @@ menu_title: "&f🎲🎲🎲🎲🎲🎲🎲🎲🏠"
 
 Example:
 
-```yaml
-items:
-  'customitem':
-    material: QUARTZ
-    model_data: 1
+```
+/minecraft:give @p minecraft:brick[minecraft:item_model="ucgui:uc_items/key"]
 ```
 
-| Image                         | Material        | CustomModelData ID | Description |
-| ----------------------------- | --------------- | ------------------ | ----------- |
-| invisible                     | MAP             | 1010               | Invisible items are necessary to make the buttons/icons in the GUI clickable. |
-| ![Key][p-key]                 | QUARTZ          | 1                  | Treasure chest key |
+| Image                         | Item model                 | Description |
+| ----------------------------- | -------------------------- | ----------- |
+| invisible                     | `ucgui:guis/invisibleitem` | Invisible items are necessary to make the buttons/icons in the GUI clickable. |
+| ![Key][p-key]                 | `ucgui:uc_items/key`       | Treasure chest key |
 
 [p-key]: .github/readme-assets/preview-key.png
